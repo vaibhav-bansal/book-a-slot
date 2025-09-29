@@ -1,0 +1,4 @@
+services:
+  web:
+    command: pnpm i && pnpm run dev
+    cwd: .
